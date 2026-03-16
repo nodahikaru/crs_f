@@ -1,4 +1,4 @@
-const BASE = "https://crs-38o4cs6qz-like365hondais-projects.vercel.app";
+const BASE = "https://crs-8bbl7rmtd-like365hondais-projects.vercel.app";
 
 export interface UploadResult {
   job_id: string;
